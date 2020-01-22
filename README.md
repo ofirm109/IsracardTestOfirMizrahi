@@ -1,13 +1,13 @@
 # IsracardTestOfirMizrahi
 
 * Open the index.html page
-* write name (for example, goop) in the text box.
+* write name (for example, mongoid-searchable) in the text box.
 * Click the search button.
 
 <br/>
 
 * index.htmlפותחים את דף ה
-* (goop כותבים שם בתיבת הטקסט (לדוגמה 
+* (mongoid-searchable כותבים שם בתיבת הטקסט (לדוגמה 
 * לוחצים על כפתור החיפוש
 
 
