@@ -4,21 +4,23 @@
 * write name (for example, goop) in the text box.
 * Click the search button.
 
-------------------------------------------
+```
+
 * index.htmlפותחים את דף ה
 * (goop כותבים שם בתיבת הטקסט (לדוגמה 
 * לוחצים על כפתור החיפוש
 
-
+------------------------------------------
 
 ## Save bookmark
 
-1 get one of the search results.
-2 Click the Add Bookmark button.
+* get one of the search results.
+* Click the Add Bookmark button.
 
------------------------------------------
-1 מקבלים אחת מתוצאות החיפוש
-2 לוחצים על שמירת הסימנייה
+```
+
+* מקבלים אחת מתוצאות החיפוש
+* לוחצים על שמירת הסימנייה
 
 
 
