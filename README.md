@@ -4,7 +4,6 @@
 * write name (for example, goop) in the text box.
 * Click the search button.
 
-```
 
 * index.htmlפותחים את דף ה
 * (goop כותבים שם בתיבת הטקסט (לדוגמה 
@@ -17,16 +16,14 @@
 * get one of the search results.
 * Click the Add Bookmark button.
 
-```
 
 * מקבלים אחת מתוצאות החיפוש
 * לוחצים על שמירת הסימנייה
 
-
+----------------------------------------
 
 ## View all bookmarks
 
-1 Click the All Bookmarks button
+* Click the All Bookmarks button
 
-----------------------------------------
-1 לוחצים על כפתור כל הסימניות 
+* לוחצים על כפתור כל הסימניות 
