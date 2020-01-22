@@ -17,6 +17,7 @@
 * get one of the search results.
 * Click the Add Bookmark button.
 
+<br/>
 
 * מקבלים אחת מתוצאות החיפוש
 * לוחצים על שמירת הסימנייה
@@ -26,5 +27,7 @@
 ## View all bookmarks
 
 * Click the All Bookmarks button
+
+<br/>
 
 * לוחצים על כפתור כל הסימניות 
