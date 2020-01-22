@@ -1,13 +1,13 @@
 # IsracardTestOfirMizrahi
 
-1 Open the index.html page
-2 write name (for example, goop) in the text box.
-3 Click the search button.
+* Open the index.html page
+* write name (for example, goop) in the text box.
+* Click the search button.
 
 ------------------------------------------
-1 index.htmlפותחים את דף ה
-2 (goop כותבים שם בתיבת הטקסט (לדוגמה 
-3 לוחצים על כפתור החיפוש
+* index.htmlפותחים את דף ה
+* (goop כותבים שם בתיבת הטקסט (לדוגמה 
+* לוחצים על כפתור החיפוש
 
 
 
