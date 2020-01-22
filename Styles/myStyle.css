@@ -1,0 +1,35 @@
+﻿body {
+}
+
+#continer {
+    width: 360px;
+    margin: auto;
+    margin-top: 80px;
+}
+
+#Search {
+    width: 100%;
+}
+#Allbookmark, #thisName {
+    text-align: center;
+}
+.center, #image, #bookmark, td img, #wait, .mywait {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+} 
+#image {
+
+    width: 80%;
+}
+#Table1{
+    width:100%;
+}
+th {
+    text-align: center;
+    font-weight: bold;
+    width:50%;
+}
+td img{
+    width:100px;
+}
