@@ -4,7 +4,7 @@
 * write name (for example, goop) in the text box.
 * Click the search button.
 
-_________________________________
+<br/>
 
 * index.htmlפותחים את דף ה
 * (goop כותבים שם בתיבת הטקסט (לדוגמה 
